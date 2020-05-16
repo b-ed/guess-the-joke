@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d4a5bbf2324e599679763f8388fd84b",
+    "revision": "bd694848828880124656ef4eaa27a501",
     "url": "/guess-the-joke/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/guess-the-joke/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "3e8a7fdc04ebe761dcb7",
+    "revision": "10f24ee7873385a5a92a",
     "url": "/guess-the-joke/static/css/main.ae8240aa.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/guess-the-joke/static/js/2.d567dc85.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3e8a7fdc04ebe761dcb7",
-    "url": "/guess-the-joke/static/js/main.33fe8532.chunk.js"
+    "revision": "10f24ee7873385a5a92a",
+    "url": "/guess-the-joke/static/js/main.4637bf1c.chunk.js"
   },
   {
     "revision": "523082f55cf2e10d3d35",
