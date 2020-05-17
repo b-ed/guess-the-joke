@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/guess-the-joke/static/css/main.2b005647.chunk.css",
-    "main.js": "/guess-the-joke/static/js/main.1353afce.chunk.js",
-    "main.js.map": "/guess-the-joke/static/js/main.1353afce.chunk.js.map",
+    "main.js": "/guess-the-joke/static/js/main.bdfb64d0.chunk.js",
+    "main.js.map": "/guess-the-joke/static/js/main.bdfb64d0.chunk.js.map",
     "runtime-main.js": "/guess-the-joke/static/js/runtime-main.67ad1c0d.js",
     "runtime-main.js.map": "/guess-the-joke/static/js/runtime-main.67ad1c0d.js.map",
     "static/css/2.3c03f26f.chunk.css": "/guess-the-joke/static/css/2.3c03f26f.chunk.css",
     "static/js/2.d567dc85.chunk.js": "/guess-the-joke/static/js/2.d567dc85.chunk.js",
     "static/js/2.d567dc85.chunk.js.map": "/guess-the-joke/static/js/2.d567dc85.chunk.js.map",
     "index.html": "/guess-the-joke/index.html",
-    "precache-manifest.845df1fefd187bf0c37a8c89092a3ae4.js": "/guess-the-joke/precache-manifest.845df1fefd187bf0c37a8c89092a3ae4.js",
+    "precache-manifest.c44361acc00b15fe42846a1c9ff45ace.js": "/guess-the-joke/precache-manifest.c44361acc00b15fe42846a1c9ff45ace.js",
     "service-worker.js": "/guess-the-joke/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/guess-the-joke/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.2b005647.chunk.css.map": "/guess-the-joke/static/css/main.2b005647.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.d567dc85.chunk.js",
     "static/css/main.2b005647.chunk.css",
-    "static/js/main.1353afce.chunk.js"
+    "static/js/main.bdfb64d0.chunk.js"
   ]
 }
